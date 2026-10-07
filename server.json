@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.bigballi/serialhunt",
+  "title": "SerialHunt",
+  "description": "US bill serial numbers: star note print runs and fancy serial patterns with exact odds.",
+  "version": "1.0.0",
+  "websiteUrl": "https://bigballi.com/SerialHunt/connect",
+  "repository": {
+    "url": "https://github.com/BigBalli/serialhunt-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://bigballi.com/SerialHunt/assets/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": ["512x512"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://bigballi.com/SerialHunt/mcp"
+    }
+  ]
+}
