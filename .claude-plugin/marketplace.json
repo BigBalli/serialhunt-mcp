@@ -1,0 +1,15 @@
+{
+  "name": "serialhunt",
+  "description": "The SerialHunt plugin: US paper money serial numbers and star note print runs in Claude.",
+  "owner": {
+    "name": "BigBalli",
+    "email": "g@bigballi.com"
+  },
+  "plugins": [
+    {
+      "name": "serialhunt",
+      "source": "./",
+      "description": "Check whether a US bill is worth keeping from its serial: star note print runs from government production figures, fancy serial patterns with exact odds, and the rarest star runs, through the SerialHunt MCP server."
+    }
+  ]
+}

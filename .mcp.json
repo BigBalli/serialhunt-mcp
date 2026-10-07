@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "serialhunt": {
+      "type": "http",
+      "url": "https://bigballi.com/SerialHunt/mcp"
+    }
+  }
+}
