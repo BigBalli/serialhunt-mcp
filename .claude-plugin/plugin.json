@@ -1,6 +1,7 @@
 {
   "name": "serialhunt",
   "displayName": "SerialHunt",
+  "icon": "./assets/icon-512.png",
   "version": "1.0.0",
   "description": "US paper money serial numbers in Claude: whether a bill is worth keeping, the star note print run it came from, fancy serial patterns with their exact odds, and the rarest star runs, from government production figures, through the SerialHunt MCP server, plus a skill that knows how to read the numbers.",
   "author": {
@@ -13,5 +14,13 @@
   "privacyPolicyUrl": "https://bigballi.com/SerialHunt/privacy",
   "supportUrl": "https://bigballi.com/SerialHunt/connect",
   "license": "MIT",
-  "keywords": ["paper-money", "currency", "star-notes", "serial-numbers", "numismatics", "banknotes", "collecting"]
+  "keywords": [
+    "paper-money",
+    "currency",
+    "star-notes",
+    "serial-numbers",
+    "numismatics",
+    "banknotes",
+    "collecting"
+  ]
 }
